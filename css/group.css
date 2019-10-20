@@ -1,0 +1,57 @@
+.containerpic
+{
+	width: 400px;
+	display: inline-block;
+	border: 2px solid #f4f4f4;
+	height: 750px;
+	position: relative;
+	float: left;
+	margin-left: 56px;
+}
+.pic
+{
+    max-width: 50px;
+}
+ 
+.divpic1
+{
+    background: url("/Content/group/pic2.png") no-repeat 0 0;
+    width: 114px;
+    max-width: 114px;
+    font-size: 12px;
+    color:Maroon;
+    height: 75px;
+    padding: 10px;
+    float: left;
+}
+.divpic2
+{
+    background: url("/Content/group/pic3.png") no-repeat 0 0;
+    width: 96px;
+    font-size: 12px;
+    max-width: 96px;
+    height: 61px;
+    color:Maroon;
+    padding: 10px;
+    float: left;
+}
+ 
+.pic_select
+{
+    border: 1px dashed Silver;
+    background-color: #c3f1f7;
+}
+ 
+.grouppic
+{
+	border: 3px dashed Silver;
+	width: 800px;
+	height: 750px;
+	display: inline-block;
+	position: relative;
+	float: right;
+}
+.pic_over
+{
+    border: 3px dashed Maroon;
+}
